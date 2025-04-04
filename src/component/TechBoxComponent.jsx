@@ -4,7 +4,8 @@ function TechBoxComponent(props) {
   return (
     <>
       <Box  sx={{
-                        border:"1px solid white",
+                        border:"1px solid #20b2aa",
+                        color:"#20b2aa",
                         backgroundColor:'transparent',
                         borderRadius:5,
                         display:"flex",

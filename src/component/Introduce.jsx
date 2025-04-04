@@ -89,7 +89,7 @@ function Introduce() {
 
           <Grid item mb="40px">
             <Avatar
-              src="/src/assets/กอล์ฟ1.jpg"
+              src="/golf1.jpg"
               sx={{ width: "400px", height: "500px", borderRadius: 5 }}
             />
           </Grid>

@@ -4,7 +4,7 @@ import { Box, Typography, Grid } from "@mui/material";
 function Experience() {
   return (
     <>
-      <Box bgcolor="black" color="white" pt="60px">
+      <Box id="experience" bgcolor="black" color="white" pt="60px">
         <Grid container spacing={2} alignItems="start" justifyContent="center">
           <Grid item pr="60px">
             <Typography

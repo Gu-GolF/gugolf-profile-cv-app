@@ -8,7 +8,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 function Connect() {
   return (
     <>
-    <Box bgcolor='black' pt='60px' color='white' pb='150px'>
+    <Box id="connect" bgcolor='black' pt='60px' color='white' pb='150px'>
     <Grid container spacing={2} alignItems='start' justifyContent='center'>
         <Grid item pr='60px'>
            <Box sx={{
